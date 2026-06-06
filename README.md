@@ -65,14 +65,11 @@ I am a **Computer Science Engineering Student** passionate about bridging the ph
 
 ---
 
-## 🚀 Featured Projects
+📡 **2.0 Jammer: Smart RF Signal Analysis & Jamming System**
 
-Here is a curated showcase of my top work, ranging from edge AI software to web systems built during hackathons:
-
-### 📡 [RuView: WiFi CSI Gesture & Vitals Sensing](https://github.com/sahilalamsiddik/wall_view)
-*Camera-free occupancy, vital signs, and human pose tracking using standard WiFi signals.*
-- **Features**: Utilizes ESP32 Channel State Information (CSI) streams, processed via Spiking Neural Networks (SNNs) in Rust, rendering a 3D hologram observatory in Three.js over WebSockets.
-- **Tech Stack**: `Rust` • `Node.js` • `WebAssembly` • `Tauri v2` • `Docker` • `Three.js`
+*Advanced ESP32-based wireless signal monitoring and jamming platform designed for RF experimentation, signal detection, and real-time device control.*
+- **Features:** Detects nearby wireless activity, performs real-time RF signal analysis, provides web-based monitoring and control, integrates ESP32 hardware with a responsive dashboard, and supports custom RF experimentation workflows.
+- **Tech Stack:** `ESP32` • `C++` • `Arduino IDE` • `HTML` • `CSS` • `JavaScript` • `WiFi` • `Embedded Systems`
 
 ### 🛡️ [SafeSpeak: Community Safety Platform](https://github.com/sahilalamsiddik/SafeSpeak_GDG_hackathon)
 *GDG Hackathon project enabling anonymous public safety reporting with active dashboard routing.*
