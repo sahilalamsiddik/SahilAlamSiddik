@@ -13,7 +13,7 @@
 
 I am a **Computer Science Engineering Student** passionate about bridging the physical and digital worlds. I build cyber-physical systems using **ESP32/ESP8266** microcontrollers and write scalable **full-stack web applications** to interface with them. I love participating in hackathons, collaborating on open-source projects, and engineering custom IoT solutions.
 
-- 🎓 **Education**: Computer Science Engineering Student @ BMS College of Engineering (BMSCE)
+- 🎓 **Education**: Computer Science Engineering Student @ AMC Engineering College 
 - 📍 **Location**: Bengaluru, India
 - ⚡ **Focus**: IoT Architecture, Real-Time Mesh Networking, Computer Vision, Edge AI, and Modern Web Applications
 - 💬 **Ask me about**: ESP32, ESP8266, NRF24L01, React 19, Node.js, and Rust systems
