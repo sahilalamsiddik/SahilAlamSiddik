@@ -13,7 +13,7 @@
 
 I am a **Computer Science Engineering Student** passionate about bridging the physical and digital worlds. I build cyber-physical systems using **ESP32/ESP8266** microcontrollers and write scalable **full-stack web applications** to interface with them. I love participating in hackathons, collaborating on open-source projects, and engineering custom IoT solutions.
 
-- 🎓 **Education**: Computer Science Engineering Student @ BMS College of Engineering (BMSCE)
+- 🎓 **Education**: Computer Science Engineering Student @ AMC Engineering College 
 - 📍 **Location**: Bengaluru, India
 - ⚡ **Focus**: IoT Architecture, Real-Time Mesh Networking, Computer Vision, Edge AI, and Modern Web Applications
 - 💬 **Ask me about**: ESP32, ESP8266, NRF24L01, React 19, Node.js, and Rust systems
@@ -65,14 +65,10 @@ I am a **Computer Science Engineering Student** passionate about bridging the ph
 
 ---
 
-## 🚀 Featured Projects
-
-Here is a curated showcase of my top work, ranging from edge AI software to web systems built during hackathons:
-
-### 📡 [RuView: WiFi CSI Gesture & Vitals Sensing](https://github.com/sahilalamsiddik/wall_view)
-*Camera-free occupancy, vital signs, and human pose tracking using standard WiFi signals.*
-- **Features**: Utilizes ESP32 Channel State Information (CSI) streams, processed via Spiking Neural Networks (SNNs) in Rust, rendering a 3D hologram observatory in Three.js over WebSockets.
-- **Tech Stack**: `Rust` • `Node.js` • `WebAssembly` • `Tauri v2` • `Docker` • `Three.js`
+### 📡 [2.0 Jammer: Smart RF Signal Analysis & Jamming System](https://github.com/sahilalamsiddik/2.0_jammerr)
+*Advanced ESP32-based wireless signal monitoring and jamming platform designed for RF experimentation, signal detection, and real-time device control.*
+- **Features:** Detects nearby wireless activity, performs real-time RF signal analysis, provides web-based monitoring and control, integrates ESP32 hardware with a responsive dashboard, and supports custom RF experimentation workflows.
+- **Tech Stack:** `ESP32` • `C++` • `Arduino IDE` • `HTML` • `CSS` • `JavaScript` • `WiFi` • `Embedded Systems`
 
 ### 🛡️ [SafeSpeak: Community Safety Platform](https://github.com/sahilalamsiddik/SafeSpeak_GDG_hackathon)
 *GDG Hackathon project enabling anonymous public safety reporting with active dashboard routing.*
