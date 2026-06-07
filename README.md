@@ -1,6 +1,10 @@
 # Hi there, I'm Sahil Alam Siddik! 👋
 
 <p align="center">
+  <img src="./banner.png" alt="Sahil's Cyber-Physical & Edge AI Portfolio Banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Full--Stack%20Web%20Dev-React%20%2F%20Node.js-blue?style=for-the-badge&logo=react&logoColor=white" alt="React & Node.js" />
   <img src="https://img.shields.io/badge/IoT%20%26%20Embedded-ESP32%20%2F%20C%2B%2B-darkgreen?style=for-the-badge&logo=espressif&logoColor=white" alt="IoT & ESP32" />
   <img src="https://img.shields.io/badge/Systems-Rust%20%2F%20Edge%20AI-orange?style=for-the-badge&logo=rust&logoColor=white" alt="Rust & Systems" />
