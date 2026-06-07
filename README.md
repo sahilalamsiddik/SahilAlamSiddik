@@ -1,7 +1,7 @@
 # Hi there, I'm Sahil Alam Siddik! 👋
 
 <p align="center">
-  <img src="./banner.png" alt="Sahil's Cyber-Physical & Edge AI Portfolio Banner" width="80%" />
+  <img src="./banner.png" alt="Sahil's Cyber-Physical & Edge AI Portfolio Banner" width="80%" height="60%" />
 </p>
 
 <p align="center">
