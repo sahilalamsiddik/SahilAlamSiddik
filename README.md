@@ -94,12 +94,12 @@ Here is a curated showcase of my top work, ranging from edge AI software to web 
 ## 📊 My GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilalamsiddik&show_icons=true&theme=radical&hide_border=true" alt="Sahil's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sahilalamsiddik&show_icons=true&theme=radical&hide_border=true" alt="Sahil's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilalamsiddik&theme=radical&hide_border=true" alt="Sahil's Commit Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilalamsiddik&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sahilalamsiddik&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
